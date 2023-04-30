@@ -1,4 +1,4 @@
-## Oi, eu sou Diógenes, um estudante de <strong>engenharia de software e BI</strong> 🦝
+## <strong>Oi, eu sou Diógenes, um estudante de <strong>engenharia de software e BI</strong>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=diogenes-oliveira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes-oliveira&theme=default#gh-dark-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
@@ -11,4 +11,6 @@
   <a href = "mailto:diogeneswilgner.so@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogeneswilgner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+   Veja minha página principal <a href="https://diogenes-oliveira.github.io/Home/" target="_blank">aqui</a>
+   🦝
 </div>

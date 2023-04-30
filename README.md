@@ -1,7 +1,7 @@
 ## <strong>Oi, eu sou Diógenes, um estudante de <strong>engenharia de software e BI</strong>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=diogenes-oliveira&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes-oliveira&theme=default#gh-dark-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes-oliveira&theme=dark#gh-dark-mode-only&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
